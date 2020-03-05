@@ -1,0 +1,10 @@
+functionalityDescription: Enter the city name to receive information about the current weather and the country.
+
+spring:
+    admin:
+        secret-info: Tut5D0mmhoqcKvblXmswNmy/Z2SwaNrZ7YCOhjnSKsOEz+jOE5IX1VOzOboMcdscVdT9bRPxonk1bIOY35F/CA==
+        secret-key: secretKey
+
+url:
+    weatherService: http://weather-info-service/weather/city/
+    countryService: http://country-info-service/country/
