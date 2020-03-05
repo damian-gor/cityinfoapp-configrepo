@@ -3,4 +3,4 @@ app:
 
 url:
     open-weather: "http://api.openweathermap.org/data/2.5/weather?q="
-        query-params: "&units=metric&APPID="
+    open-weather.query-params: "&units=metric&APPID="
