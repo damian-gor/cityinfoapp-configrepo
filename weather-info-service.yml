@@ -1,6 +1,4 @@
-app:
-    id: bf836669dd5590ccb4fdfe6132d8ca69
+app.id: bf836669dd5590ccb4fdfe6132d8ca69
 
-url:
-    open-weather: "http://api.openweathermap.org/data/2.5/weather?q="
-    open-weather.query-params: "&units=metric&APPID="
+url.open-weather: "http://api.openweathermap.org/data/2.5/weather?q="
+url.open-weather.query-params: "&units=metric&APPID="
