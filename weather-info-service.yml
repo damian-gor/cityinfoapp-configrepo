@@ -2,5 +2,5 @@ app:
     id: bf836669dd5590ccb4fdfe6132d8ca69
 
 url:
-    open-weather: http://api.openweathermap.org/data/2.5/weather?q=
-        query-params: &units=metric&APPID=
+    open-weather: "http://api.openweathermap.org/data/2.5/weather?q="
+        query-params: "&units=metric&APPID="
